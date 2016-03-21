@@ -1,0 +1,10 @@
+{
+    "name": "libreworks/psr3-log-hhi",
+    "description": "Typechecker definitions for PSR-3",
+    "keywords": ["hhvm", "hack", "hhi", "psr", "psr-3", "psr3", "log"],
+    "homepage": "https://github.com/libreworks/psr3-log-hhi",
+    "license": ["MIT"],
+    "require": {
+        "psr/log": "^1.0"
+    }
+}
